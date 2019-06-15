@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         //arreglo para llenar el control SPINNER
         String [] opciones={"Sumar", "Restar","Multiplicar","Dividir"};
         ArrayAdapter<String>adapter = new ArrayAdapter<String>(this,
-                android.R.layout.simple_spinner_dropdown_item, opciones);
+                R.layout.spinner_item_marco, opciones);
         spinner1.setAdapter(adapter);
         //Codigo para asignar valores al Spinner
 
