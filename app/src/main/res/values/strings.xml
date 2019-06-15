@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSpinner</string>
+    <string name="edt1">Numero uno</string>
+    <string name="edt2">Numero dos</string>
+
+    <string name="btncalcular">Calcular</string>
+    <string name="tvresultado">Resultado:</string>
+</resources>
